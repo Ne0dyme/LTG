@@ -1,0 +1,14 @@
+#
+#
+#
+#
+#
+#
+#
+#
+
++1 inclure: (noms de fonction)
++2 exclure: (noms de fonction)
++3 appels systèmes:
++4 trigger function for starting the trace:
++5 trigger function for ending the trace:
